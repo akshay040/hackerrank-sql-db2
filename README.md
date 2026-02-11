@@ -11,7 +11,7 @@ SQL practice solutions from HackerRank using the **DB2** dialect.
 - Advanced Select
 - Advanced Join
 
-| Number | Challenges | Solutions |
+| Number | Question | Solution |
 |:--:|:--|:--:|
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](./Basic%20Select/Revising%20the%20Select%20Query%20I.sql) |
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL](./Basic%20Select/Revising%20the%20Select%20Query%20II.sql) |
